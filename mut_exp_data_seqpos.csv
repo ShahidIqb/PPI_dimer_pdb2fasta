@@ -1,0 +1,5 @@
+pdb,Chain,mutation,wild,pdb_pos,mutant,actual ddG,#Pdb Partners,seq_pos
+1A22,B,EB279A,E,279,A,0.079,1A22_A_B,38
+1A22,B,EB282A,E,282,A,-0.783,1A22_A_B,41
+1A22,A,YA42A,Y,42,A,-0.199,1A22_A_B,42
+1A22,B,YB295A,Y,295,A,-0.199,1A22_A_B,54
